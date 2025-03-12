@@ -142,7 +142,3 @@ void OnSignIn(UniversalGSignIn.GoogleUser user) {
 ## Contact
 
 For any questions or support, feel free to reach out at [hcmyxconan12@gmail.com](mailto:hcmyxconan12@gmail.com).
-
----
-
-Thank you for using the `Universal Integration for Google Sign-In` plugin! We hope it simplifies the process of integrating Google authentication into your Unity projects.
