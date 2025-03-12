@@ -1,0 +1,33 @@
+{
+  "name": "com.sye.universalgsignin",
+  "version": "1.0.2",
+  "displayName": "Universal Integration for Google Sign-In",
+  "description": "A powerful and easy-to-use solution for integrating Google Sign-In functionality into your Unity projects. supports most platforms: WebGL, Android, iOS, UWP, Windows, and Editor.",
+  "author": {
+    "name": "Simple yet Efficient",
+    "email": "mohelm97@gmail.com",
+    "url": "https://github.com/simple-yet-efficient"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "Example on how to use the plugin",
+      "path": "Samples~"
+    }
+  ],
+  "unity": "2018.2",
+  "documentationUrl": "https://github.com/simple-yet-efficient/google-sign-in",
+  "license": "Standard Unity Asset Store EULA",
+  "licensesUrl": "https://unity.com/legal/as-terms",
+  "keywords": [
+    "google",
+    "auth",
+    "oauth",
+    "networking",
+    "sign-in",
+    "login",
+    "play-games",
+    "signin"
+  ],
+  "type": "library"
+}
