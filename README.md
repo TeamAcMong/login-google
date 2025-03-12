@@ -139,13 +139,9 @@ void OnSignIn(UniversalGSignIn.GoogleUser user) {
 ```
 
 
-## License
-
-This plugin is licensed under [Standard Unity Asset Store EULA](https://unity.com/legal/as-terms).
-
 ## Contact
 
-For any questions or support, feel free to reach out at [mohelm97@gmail.com](mailto:mohelm97@gmail.com).
+For any questions or support, feel free to reach out at [hcmyxconan12@gmail.com](mailto:hcmyxconan12@gmail.com).
 
 ---
 
